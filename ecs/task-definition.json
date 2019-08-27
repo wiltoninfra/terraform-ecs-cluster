@@ -1,6 +1,9 @@
 [
     {
-        "environment": [],
+        "environment": [ {
+            "name": "GERU_PASS",
+            "value": "XXXXXXXXXXXXX"
+          }],
         "name": "app-test",
         "image": "wilton/app-test:v1",
         "cpu": 10,
